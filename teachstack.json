@@ -179,12 +179,12 @@
           "initialFiles": ["index.html"],
           "tests": [
             {
-              "test": "",
+              "test": "button text",
               "name": "Name the blank button",
               "description": "Add some text to the first button on the page so that it reads 'click me'."
             },
             {
-              "test": "",
+              "test": "button colour",
               "name": "Change the colour of the red button",
               "description": "Change the style attribute of the red button and make it a different colour."
             }
