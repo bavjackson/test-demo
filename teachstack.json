@@ -133,12 +133,12 @@
           "initialFiles": ["index.html"],
           "tests": [
             {
-              "test": "",
+              "test": "unordered list",
               "name": "Write your to-do list",
               "description": "Use an unordered list to write three items on your to-do list for tomorrow."
             },
             {
-              "test": "",
+              "test": "ordered list",
               "name": "List your top three favorite movies",
               "description": "Use an ordered list to rank your top three favorite movies."
             }
