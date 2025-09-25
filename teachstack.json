@@ -1,9 +1,6 @@
 {
   "languages": [
     {
-      "language": "browser"
-    },
-    {
       "language": "node",
       "version": "22"
     }
@@ -26,12 +23,12 @@
               "description": "Click 'Next' to proceed to the first lesson"
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "index.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         },
         {
           "name": "What Are Tags?",
@@ -49,12 +46,12 @@
               "description": "Add your first heading in the body of the HTML file by writing your name between an open and closed h1 tag."
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "index.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         },
         {
           "name": "Attributes 1",
@@ -67,12 +64,12 @@
               "description": "Use the <a> tag to add a link to the Amigoscode website (https://www.amigoscode.com) with the text 'Visit Amigoscode'."
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "index.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         },
         {
           "name": "Attributes 2",
@@ -85,12 +82,12 @@
               "description": "Use the <input> tag to collect a user's name. The input field should have placeholder text that says 'Enter your name'."
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "index.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         },
         {
           "name": "H1 to H6 Tags",
@@ -103,12 +100,12 @@
               "description": "Expand your website by adding three additional headings using the h4, h5, and h6 tags. Each heading should contain any text of your choice."
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "index.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         },
         {
           "name": "Paragraphs",
@@ -121,12 +118,12 @@
               "description": "Add two paragraphs to your webpage under any of the existing headings. Each paragraph should contain any text of your choice."
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "index.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         },
         {
           "name": "Lists",
@@ -144,12 +141,12 @@
               "description": "Use an ordered list to rank your top three favorite movies."
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "index.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         },
         {
           "name": "Links",
@@ -167,12 +164,12 @@
               "description": "Use a relative path to create a link to the Contact page with the text 'Newsletter'."
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "index.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         },
         {
           "name": "Buttons",
@@ -190,12 +187,12 @@
               "description": "Change the style attribute of the red button and make it a different colour."
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "index.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         },
         {
           "name": "Tables",
@@ -213,12 +210,12 @@
               "description": "Increase the border width of the table to 2 pixels by modifying the CSS in the <style> tag."
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "index.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         },
         {
           "name": "Working with Images",
@@ -236,12 +233,12 @@
               "description": "Use attributes to make the image 300 pixels wide and 200 pixels tall."
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "images.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         },
         {
           "name": "Divs",
@@ -259,12 +256,12 @@
               "description": "Add attributes to the <div> tag to give it a background color of your choice and a border."
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "divs.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         }
       ]
     },
@@ -284,12 +281,12 @@
               "description": "Click 'Next' to proceed to the first lesson"
             }
           ],
-          "scripts": [
-            {
-              "language": "browser",
-              "file": "index.html"
-            }
-          ]
+          "scripts": [],
+          "browser": {
+            "type": "file",
+            "file": "index.html",
+            "port": 3000
+          }
         },
         {
           "name": "comments",
